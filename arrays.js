@@ -1,4 +1,8 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
+<<<<<<< HEAD
+=======
+//var candyString = "foo"
+>>>>>>> 4009d3d7f0490b05fd86b6df5bf0290dbd5ee37e
 
 function addElementToBeginningOfArray(chocolateBars, candyString){
   return [candyString, ...chocolateBars];
